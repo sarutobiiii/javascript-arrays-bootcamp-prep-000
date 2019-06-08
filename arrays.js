@@ -31,6 +31,10 @@ function destructivelyRemoveElementFromEndOfArray(array) {
  array.pop(element) 
  return array
 }
+
+function removeElementFromEndOfArray() {
+  
+}
 function accessElementInArray(array, index) {
   return array[index]
 }
